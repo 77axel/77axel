@@ -41,7 +41,7 @@ The programming languages and web technologies I use most often:
 
 
 ### 🔗 Find me on
-- [Portfolio](https://77axel.github.io/77AXEL)
+- [Portfolio](https://77axel.github.io/77axel)
 - [HuggingFace](https://huggingface.co/spaces/777axel)
 ---
 [![](https://visitcount.itsvg.in/api?id=77AXEL&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
@@ -51,6 +51,7 @@ The programming languages and web technologies I use most often:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/77AXEL/77AXEL/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/77AXEL/77AXEL/output/pacman-contribution-graph.svg">
 </picture>
+
 
 
 
