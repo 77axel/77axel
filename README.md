@@ -11,6 +11,7 @@ The programming languages and web technologies I use most often:
 <table>
   <tr>
     <td><img src="./assets/cython.svg" width="20" height="20"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="20" height="20"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fortran/fortran-original.svg" width="20" height="20"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="20" height="20"/></td>
