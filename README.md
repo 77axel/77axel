@@ -22,7 +22,7 @@ The programming languages and web technologies I use most often:
 
 ### 📊 Statistics
 ![](https://github-contributor-stats.vercel.app/api?username=77AXEL&limit=5&theme=transparent&hide_border=true&combine_all_yearly_contributions=true)
-![](https://77axel.pythonanywhere.com/langs)
+![](https://77axel.pythonanywhere.com/lang)
 
 🎓 Certificates & Achievements
 <table align="center">
