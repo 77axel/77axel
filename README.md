@@ -4,7 +4,7 @@
 
 ## 📜 A short description 
 
-I am a software developer/engineer with experience in low-level programming (C, C++, Assembly), full-stack development, and cross-platform application building. I study deep learning and computer vision, while also exploring operating systems, networking, cybersecurity, and the Internet of Things (IoT). I enjoy experimenting with 3D graphics, game engines, and OpenGL, and I use GitHub to share my projects, skills, and knowledge.
+I am a software developer with experience in low-level programming (C, C++, Assembly), embedded systems, full-stack development, and cross-platform application building. I study deep learning and computer vision, while also exploring operating systems, networking, cybersecurity, and the Internet of Things (IoT). I enjoy experimenting with 3D graphics, game engines, and OpenGL, and I use GitHub to share my projects, skills, and knowledge.
 
 The programming languages, libraries, web technologies and tools I use most often:
 
